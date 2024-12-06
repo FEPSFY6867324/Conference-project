@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Conference-Project/static/css/main.5be1cc08.css",
+    "main.js": "/Conference-Project/static/js/main.8c8228b3.js",
+    "static/js/453.6bff4754.chunk.js": "/Conference-Project/static/js/453.6bff4754.chunk.js",
+    "index.html": "/Conference-Project/index.html",
+    "main.5be1cc08.css.map": "/Conference-Project/static/css/main.5be1cc08.css.map",
+    "main.8c8228b3.js.map": "/Conference-Project/static/js/main.8c8228b3.js.map",
+    "453.6bff4754.chunk.js.map": "/Conference-Project/static/js/453.6bff4754.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5be1cc08.css",
+    "static/js/main.8c8228b3.js"
+  ]
+}
